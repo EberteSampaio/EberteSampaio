@@ -2,7 +2,11 @@
 
 ## My name is Eberte Sampaio, but you can call me "Bert"!
 
-![](https://komarev.com/ghpvc/?username=EberteSampaio&color=006bed)
+## 📫 Where to Find Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberte-sampaio-bb7791265/)
+[![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:deveberte@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/EberteSampaio?label=follow&style=social)](https://github.com/EberteSampaio)
 
 ## About Me
 
@@ -54,10 +58,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EberteSampaio&theme=dark&show_icons=true"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=EberteSampaio&color=006bed)
 ---
-
-## 📫 Where to Find Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberte-sampaio-bb7791265/)
-[![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:deveberte@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/EberteSampaio?label=follow&style=social)](https://github.com/EberteSampaio)
