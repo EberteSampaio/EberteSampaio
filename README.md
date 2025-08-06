@@ -12,7 +12,6 @@
 
 - 🤔 I'm a software developer focused on back-end development, but currently exploring front-end technologies. I am a quick learner, I have strong willpower, dedication, and a passion for solving problems.
 - 🎓 Studying Information Systems at Instituto Federal Goiano.
-- 💼 Working as a Systems Developer at HPE AUTOMOTORES LTDA.
 - 🌱 Currently learning more about Java, Spring Boot, Angular, and DevOps.
 
 ---
