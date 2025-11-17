@@ -10,9 +10,9 @@
 
 ## About Me
 
-- 🤔 I'm a software developer focused on back-end development, but currently exploring front-end technologies. I am a quick learner, I have strong willpower, dedication, and a passion for solving problems.
-- 🎓 Studying Information Systems at Instituto Federal Goiano.
-- 🌱 Currently learning more about Java, Spring Boot, Angular, and DevOps.
+I am a back-end developer focused on Java (17) with experience in Spring Boot (Spring Data, Web, Security, and Sessions). My focus is on building secure, high-performance, and maintainable applications, following the best practices of software engineering. Throughout my career, I have worked on collaborative projects with multidisciplinary teams, ensuring the delivery of robust solutions on time, with an emphasis on user experience and information security.
+My goal is to continue growing professionally, taking on new challenges that allow me to expand my knowledge and create added value through innovative and high-quality solutions.
+Studying Information Systems at Instituto Federal Goiano. Currently learning more about Java, Spring Boot, Go, and DevOps.
 
 ---
 
@@ -20,18 +20,13 @@
 
 ### 🖥️ Operating Systems
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 📦 Applications & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![PostgreSql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Utilities
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
@@ -46,8 +41,6 @@
 ### 🛠️ Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
