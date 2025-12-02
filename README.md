@@ -47,7 +47,6 @@ Studying Information Systems at Instituto Federal Goiano. Currently learning mor
 ## 📊 GitHub Stats
 
 <a href="https://github.com/EberteSampaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EberteSampaio&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EberteSampaio&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
