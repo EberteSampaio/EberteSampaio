@@ -63,49 +63,6 @@ Desenvolvedor Back-end na **Orbit Logic**, onde atuo no desenvolvimento de siste
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-### 🏠 [HomeFlow](https://github.com/EberteSampaio/HomeFlow)
-> Sistema para gestão e divisão de despesas domésticas para casais, projetado para escalar e englobar a organização completa do lar.
-
-**Stack:** Python · Django · PostgreSQL · Docker
-
-[![homeflow.dev.deveberte.cloud](https://img.shields.io/badge/🌐_Demo-homeflow.dev.deveberte.cloud-blue?style=flat-square)](https://homeflow.dev.deveberte.cloud)
-
----
-
-### ⚡ [CLI Health Checker](https://github.com/EberteSampaio/cli-health-check)
-> Ferramenta de linha de comando (CLI) construída em **Go** para verificar a disponibilidade de listas massivas de sites simultaneamente.
-
-**Stack:** Go · Goroutines · Clean Architecture · Docker
-
----
-
-### ✅ [TaskTracker CLI](https://github.com/EberteSampaio/TaskTracker)
-> Ferramenta de linha de comando para gerenciar tarefas do dia a dia. Acompanhe o que precisa fazer, o que está em andamento e o que já foi concluído — tudo pelo terminal.
-
-**Stack:** Python · CLI
-
----
-
-### 🏛️ [App Cemitério](https://github.com/EberteSampaio/app-cemiterio)
-> Aplicação web para gestão de cemitério com CRUD completo, busca de falecidos, segurança e suporte a múltiplos idiomas.
-
-**Stack:** PHP · Twig · PostgreSQL
-
----
-
-### 🧩 [Design Patterns — Facade](https://github.com/EberteSampaio/Design_Patterns_Facade)
-> Projeto criado para explorar o padrão de projeto **Facade** com Spring Boot, demonstrando boas práticas de arquitetura.
-
-**Stack:** Java · Spring Boot
-
----
-
-### 🖼️ [Image Analyzer](https://github.com/EberteSampaio/Image_analyzer)
-> Analisador de imagens desenvolvido em Java com interface GUI, utilizando a biblioteca ImageJ.
-
-**Stack:** Java · Maven
 
 ---
 
