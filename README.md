@@ -52,8 +52,8 @@ Tenho experiência com equipes multidisciplinares, entrega de soluções no praz
 
 ## 💼 Experiência Profissional
 
-### Orbit Logic
-Desenvolvedor Back-end na **Orbit Logic**, onde atuo no desenvolvimento de sistemas empresariais, incluindo módulos de ERP (compras, estoque e gestão) com foco em performance, segurança e escalabilidade.
+### Eng. AI Solutions
+Desenvolvedor Back-end na **Eng. AI Solutions**, onde atuo no desenvolvimento de sistemas empresariais, incluindo módulos de ERP (compras, estoque e gestão) com foco em performance, segurança e escalabilidade.
 
 - Desenvolvimento de módulos ERP com **Python/Django**
 - Criação de APIs RESTful seguras e escaláveis
