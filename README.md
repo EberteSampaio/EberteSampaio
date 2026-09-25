@@ -68,8 +68,4 @@ Desenvolvedor Back-end na **Eng. AI Solutions**, onde atuo no desenvolvimento de
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/EberteSampaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EberteSampaio&layout=compact&langs_count=7&theme=dark"/>
-</a>
-
 ![Profile views](https://komarev.com/ghpvc/?username=EberteSampaio&color=006bed)
