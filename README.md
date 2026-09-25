@@ -66,6 +66,4 @@ Desenvolvedor Back-end na **Eng. AI Solutions**, onde atuo no desenvolvimento de
 
 ---
 
-## 📊 GitHub Stats
-
 ![Profile views](https://komarev.com/ghpvc/?username=EberteSampaio&color=006bed)
