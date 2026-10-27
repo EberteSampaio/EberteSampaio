@@ -2,7 +2,7 @@
 
 ## My name is Eberte Sampaio, but you can call me "Bert"!
 
-![Snake animation](https://github.com/EberteSampaio/EberteSampaio/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EberteSampaio/EberteSampaio/blob/output/github-contribution-grid-snake.svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberte-sampaio-bb7791265/)
 [![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:deveberte@gmail.com)
