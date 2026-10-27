@@ -2,7 +2,11 @@
 
 ## My name is Eberte Sampaio, but you can call me "Bert"!
 
-![snake gif](https://github.com/EberteSampaio/EberteSampaio/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EberteSampaio/EberteSampaio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EberteSampaio/EberteSampaio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EberteSampaio/EberteSampaio/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eberte-sampaio-bb7791265/)
 [![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:deveberte@gmail.com)
